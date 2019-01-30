@@ -1,0 +1,20 @@
+/* CSS Document */
+/* Global */
+
+html {
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+.no-color {
+    color: black;
+}
+
+.no-color:hover {
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    border: 1px solid rgba(0,0,0,.1);
+    margin-bottom: 15px;
+}
